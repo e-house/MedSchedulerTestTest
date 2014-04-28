@@ -1,0 +1,62 @@
+
+hr{
+  border: none;
+  height: 2px;
+  background-color:white;
+}
+a {
+    text-decoration: none;
+}
+a:link, a:visited{
+    
+   color: #7B7B7B;
+   
+    
+}
+
+#topRibbon{
+  background-color: #82526A;
+  margin-top: -8px;
+    margin-left: -8px;
+  width: 100%;
+  position: absolute;
+  display: table;
+  height: 40px;
+  
+  font-family: Optima, Segoe, "Segoe UI", Candara, Calibri, Arial, sans-serif;
+  
+}
+
+#screenTitle{
+  font-weight: bold;
+  display: table-cell;
+  text-align: center;
+  vertical-align: middle;
+  color: white;
+  font-size: 20px;
+  
+}
+#indexBody{
+
+  background-image: url("brushed.png");
+	/*background-color: #CCCCCC;*/
+}
+.menu{
+  color: #7B7B7B;
+  font-family: Optima, Segoe, "Segoe UI", Candara, Calibri, Arial, sans-serif;
+}
+.menu hr{
+    border: none;
+  height: 1px;
+  background-color: #7B7B7B;
+  margin: 0px;
+  padding: 0px;
+  
+}
+
+#MenuBody{
+  background-color: #D6D6D6;
+}
+#menuLink{
+  width: 15px;
+}
