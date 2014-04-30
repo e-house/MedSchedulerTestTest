@@ -31,7 +31,9 @@
     </author>
 
     <access origin="*"/>
-
+    <feature name="Calendar">
+        <param name="ios-package" value="Calendar" />
+    </feature>
     <!-- <content src="http://mysite.com/myapp.html" /> for external pages -->
     <content src="index.html" />
 
